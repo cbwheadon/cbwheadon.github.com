@@ -8,6 +8,8 @@ Hello
 
 We made 1 million dollars {% comment %} in losses {% endcomment %} this year
 
+{% cycle 'one', 'two', 'three' %}
+
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllboostrap.com)
