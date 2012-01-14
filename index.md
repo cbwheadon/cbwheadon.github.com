@@ -6,11 +6,7 @@ header: This is Jekyll-Bootstrap
 
 Hello
 
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+We made 1 million dollars {% comment %} in losses {% endcomment %} this year
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
 
