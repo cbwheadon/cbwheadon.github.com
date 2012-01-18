@@ -2,6 +2,7 @@
 layout: page
 title: Psychometrics Qu'est-ce que c'est?
 header: Psychometrics in R, JAGS and WinBUGS, with some Python thrown in...
+tags : [R]
 ---
 
 Psychometrics...
