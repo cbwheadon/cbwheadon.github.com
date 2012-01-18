@@ -9,7 +9,7 @@ var:
   tags_path : /tags.html
 
 production_url : http://username.github.com # or your custom domain name
-title : UK Rasch Users Group
+title : Psychometrics Qu'est-ce que c'est?
 
 author :
   name : Chris Wheadon
