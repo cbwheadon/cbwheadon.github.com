@@ -1,12 +1,12 @@
 ---
 layout: post
-categories : [R]
-tags : [R]
+categories : r
+tags : [r]
 ---
 
-CRAN keeps a list of web interfaces for R : <A href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#R-Web-Interfaces">here</A>
+CRAN keeps a list of web interfaces for R : <A href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#R-Web-Interfaces">here</A>.
 
-Perhaps the most exciting development is <A href="http://jeffreyhorner.tumblr.com/post/4723187316/introducing-rook">Rook</A> a R web service that takes advantage of the built in web server in R.
+Perhaps the most exciting of these is <A href="http://jeffreyhorner.tumblr.com/post/4723187316/introducing-rook">Rook</A> a R web service that takes advantage of the built in web server in R.
 
     function(env){
       body = paste("<h1>Hello World! This is Rook",env$rook.version,".</h1>")
@@ -44,7 +44,7 @@ While these offer platforms for developing R, far less work has been done on pro
 
 Over at Cambridge we have the brilliant <A href="http://www.psychometrics.cam.ac.uk/news.41.htm">Concerto</A> which makes writing an adaptive test using <A href="http://cran.r-project.org/web/packages/catR/index.html">catR</A> a breeze. It really is worth a go. They will even host a demo account for you.
 
-Elsewhere Jeroen Ooms cuts a lonely figure in R web services. Linear models and ggplots in web interfaces. Check them out <A  href="http://www.stat.ucla.edu/~jeroen/">here</A> and how he did it <A href="http://www.stat.ucla.edu/~jeroen/files/barug2010.pdf">here</A>
+Elsewhere Jeroen Ooms cuts a lonely figure in R web services. Linear models and ggplots in web interfaces. Check them out <A  href="http://www.stat.ucla.edu/~jeroen/">here</A> and how he did it <A href="http://www.stat.ucla.edu/~jeroen/files/barug2010.pdf">here</A>.
 
 So where is the Ruby, django R integration work going on?
 
