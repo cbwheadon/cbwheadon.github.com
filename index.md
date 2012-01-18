@@ -5,9 +5,7 @@ header:
 tags : [R]
 ---
 
-Psychometrics...
-
-Qu'est-ce que c'est?
+Psychometrics... Qu'est-ce que c'est?
 
 Say psychometrics to people and they think IQ tests. Fair enough.
 
