@@ -23,7 +23,7 @@ I think <A href="http://cran.r-project.org/web/packages/eRm/eRm.pdf">eRm</A>:
 The joy of fitting your first Rasch model in R is unparallelled. Go on try, it. Hmmm... a list of numbers. No idea what they mean?
 
 ok. so you take an IQ test. How do we know how clever you are? We've fitted a model to the test, and the model tells us. Ah, but what interests
-a psychometrician is the residuals. What the model doesn't tell us. You may not fit our model. Interesting. Perhaps we need different questions for you, or perhaps we need a different model (sorry <A>href="http://www.rasch.org/">Benjamin D. Wright</A>). In the old days that would mean expensive software where you spend days figuring out that 0 is not allowed as a valid response. Really?
+a psychometrician is the residuals. What the model doesn't tell us. You may not fit our model. Interesting. Perhaps we need different questions for you, or perhaps we need a different model (sorry <A href="http://www.rasch.org/">Benjamin D. Wright</A>). In the old days that would mean expensive software where you spend days figuring out that 0 is not allowed as a valid response. Really?
 
 Ah, R has an answer. And I love R. I mean really love R. <A href="http://cran.r-project.org/web/packages/ltm/ltm.pdf">ltm</A>. Eat your heart out with generalised models. Only now the misfit is getting quite obscure. I know longer know if you fit or the items fit because there is a distribution of a statistic that Sitjsma has told me has certain properties, but I have no way of following his proof.
 
