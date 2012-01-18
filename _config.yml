@@ -8,7 +8,7 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
+production_url : http://cbwheadon.github.com/ # or your custom domain name
 title : Psychometrics Qu'est-ce que c'est?
 
 author :
