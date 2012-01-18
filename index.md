@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Psychometrics Qu'est-ce que c'est?
-header: Psychometrics in R, JAGS and WinBUGS, with some Python thrown in...
+title: Psychometrics in R, JAGS and WinBUGS, with some Python thrown in... oh.. and it's in the cloud ...
+header: 
 tags : [R]
 ---
 
