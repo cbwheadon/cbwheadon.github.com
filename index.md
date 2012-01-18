@@ -58,7 +58,8 @@ And so to Bayes, to JAGS, to WinBUGS, RJags, R2WinBUGS and models that have an e
 So you fit your model. And you load up your data. And you iterate. And iterate. And iterate. Minutes turn to hours turn to days. And if you are on Windows you have rebooted six times to install security updates. There must be a better way. Enter stage left Django, Python rpy2 and the cloud...
 
 Follow me into the cloud...
-	
+
+<p><a href="http://feeds.feedburner.com/http/cbwheadongithubcom/feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/http/cbwheadongithubcom/feed" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p>	
 	
 <ul class="posts">
   {% for post in site.posts %}
