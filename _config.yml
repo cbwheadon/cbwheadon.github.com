@@ -4,7 +4,6 @@ permalink: /:categories/:year/:month/:day/:title
 auto: true
 pygments: true
 sitename: Psychometrics and R       #Your site title
-tagline: Psychometrics and R  #You should always have a tagline
 url: http://cbwheadon.github.com/
 
 var:
@@ -13,7 +12,8 @@ var:
   tags_path : /tags.html
 
 production_url : http://cbwheadon.github.com/ # or your custom domain name
-title : Psychometrics Qu'est-ce que c'est?
+title : Psychometrics R and the cloud?
+tagline: Psychometrics and R  #You should always have a tagline
 
 author :
   name : Chris Wheadon
