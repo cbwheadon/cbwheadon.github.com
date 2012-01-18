@@ -9,26 +9,26 @@ CRAN keeps a list of web interfaces for R : <A href="http://cran.r-project.org/d
 Perhaps the most exciting development is <A href="http://jeffreyhorner.tumblr.com/post/4723187316/introducing-rook">Rook</A> a R web service that takes advantage of the built in web server in R.
 
     function(env){
-      body = paste(’<h1>Hello World! This is Rook’,env$rook.version,’.</h1>’)
+      body = paste("<h1>Hello World! This is Rook",env$rook.version,".</h1>")
       list(
       status = 200L,
       headers = list(
-      ’Content-Type’ = ’text/html’
+      "Content-Type" = "text/html"
       ),
       body = body
       )
     }
 
     setRefClass(
-      ’HelloWorld’,
+      "HelloWorld",
       methods = list(
       call = function(env){
       list(
         status = 200L,
         headers = list(
-        ’Content-Type’ = ’text/html’
+        "Content-Type" = "text/html"
         ),
-        body = paste(’<h1>Hello World! This is Rook’,env$rook.version,’.</h1>’)
+        body = paste("<h1>Hello World! This is Rook",env$rook.version,".</h1>")
         )
       }
       )
