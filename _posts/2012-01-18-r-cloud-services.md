@@ -2,10 +2,8 @@
 layout: post
 categories : R
 tags : [R]
-tagline : [R]
 ---
-
-CRAN keeps a list of web interfaces for R : <A href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#R-Web-Interfaces">here</A>.
+A list of web interfaces for R is updated on CRAN <A href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#R-Web-Interfaces">here</A>.
 
 Perhaps the most exciting of these is <A href="http://jeffreyhorner.tumblr.com/post/4723187316/introducing-rook">Rook</A> a R web service that takes advantage of the built in web server in R.
 
