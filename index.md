@@ -10,7 +10,7 @@ Qu'est-ce que c'est?
 
 Say psychometrics to people and they think IQ tests. Fair enough.
 
-I think eRM:
+I think <A href="http://cran.r-project.org/web/packages/eRm/eRm.pdf">eRm</A>:
 
     # Rasch model with beta.1 restricted to 0
     data(raschdat1)
@@ -26,7 +26,7 @@ a pyschometrician is the residuals. What the model doesn't tell us. You may not 
 
 Ah, R has an answer. And I love R. I mean really love R. ltm. Eat your heart out with generalised models. Only now the misfit is getting quite obscure. I know longer know if you fit or the items fit because there is a distribution of a statistic that Sitjsma has told me has certain properties, but I have no way of following his proof.
 
-And so to Bayes, to JAGS, to WinBUGS, RJags, R2WinBUGS and models that have an elegance that was undreamt of before Gibbs sampling. S. Mackay Curtis, http://www.jstatsoft.org/v36/c01/paper, and the testlet model. Now my items can live within testlets!
+And so to Bayes, to JAGS, to WinBUGS, RJags, R2WinBUGS and models that have an elegance that was undreamt of before Gibbs sampling. Models galore: <A href="http://www.jstatsoft.org/v36/c01/paper">S. Mackay Curtis</A> and the testlet model. Now my items can live within testlets!
 
     model {
      for (i in 1:n){
