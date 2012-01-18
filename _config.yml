@@ -3,6 +3,10 @@
 permalink: /:categories/:year/:month/:day/:title 
 auto: true
 pygments: true
+sitename: Psychometrics and R       #Your site title
+tagline: Psychometrics and R  #You should always have a tagline
+url: http://cbwheadon.github.com/
+
 var:
   archive_path: /archive.html
   categories_path : /categories.html
