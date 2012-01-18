@@ -1,7 +1,8 @@
 ---
 layout: post
-categories : r
-tags : [r]
+categories : R
+tags : [R]
+tagline : [R]
 ---
 
 CRAN keeps a list of web interfaces for R : <A href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#R-Web-Interfaces">here</A>.
