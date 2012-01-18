@@ -25,9 +25,9 @@ The joy of fitting your first Rasch model in R is unparallelled. Go on try, it. 
 ok. so you take an IQ test. How do we know how clever you are? We've fitted a model to the test, and the model tells us. Ah, but what interests
 a psychometrician is the residuals. What the model doesn't tell us. You may not fit our model. Interesting. Perhaps we need different questions for you, or perhaps we need a different model (sorry <A href="http://www.rasch.org/">Benjamin D. Wright</A>). In the old days that would mean expensive software where you spend days figuring out that 0 is not allowed as a valid response. Really?
 
-Ah, R has an answer. And I love R. I mean really love R. <A href="http://cran.r-project.org/web/packages/ltm/ltm.pdf">ltm</A>. Eat your heart out with generalised models. Only now the misfit is getting quite obscure. I know longer know if you fit or the items fit because there is a distribution of a statistic that Sitjsma has told me has certain properties, but I have no way of following his proof.
+Ah, R has an answer. And I love R. I mean really love R. <A href="http://cran.r-project.org/web/packages/ltm/ltm.pdf">ltm</A>. Eat your heart out with generalised models. Only now the misfit is getting quite obscure. I no longer know if you fit my model or the items fit my model or if nothing fits at all because there is a distribution of a statistic that Sitjsma has told me has certain properties, but I have no way of following his proof.
 
-And so to Bayes, to JAGS, to WinBUGS, RJags, R2WinBUGS and models that have an elegance that was undreamt of before Gibbs sampling. Models galore: <A href="http://www.jstatsoft.org/v36/c01/paper">S. Mackay Curtis</A> and the testlet model. Now my items can live within testlets!
+And so to Bayes, to JAGS, to WinBUGS, RJags, R2WinBUGS and models that have an elegance that was dreamt of but unrealised before Gibbs sampling. Models galore: <A href="http://www.jstatsoft.org/v36/c01/paper">S. Mackay Curtis</A> and the testlet model. Now my items can live within testlets!
 
     model {
      for (i in 1:n){
